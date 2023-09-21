@@ -1,16 +1,6 @@
-# add_task
+# Task 
 
-A new Flutter project.
+Add task like todo app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_5794251250328518525_y](https://github.com/YeshiwasT/2023-project-phase-mobile-tasks/assets/81110077/ee518e8b-5d53-460f-ae5e-1d060c92ec86)
+<img width="197" alt="Screen Shot 2023-09-21 at 11 59 55 PM" src="https://github.com/YeshiwasT/2023-project-phase-mobile-tasks/assets/81110077/ddf2b31f-63ee-45d9-9ecc-2403870032fd">
