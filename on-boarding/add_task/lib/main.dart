@@ -1,4 +1,6 @@
-import 'package:add_task/add_task/Screen/task.dart';
+import 'package:add_task/add_task/Screen/add_todo_Screen.dart';
+import 'package:add_task/task_detail/task_detail.dart';
+import 'package:add_task/todo_list/Screen/task.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -19,7 +21,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(),
+      home: const TodoDetail(),
     );
   }
 }

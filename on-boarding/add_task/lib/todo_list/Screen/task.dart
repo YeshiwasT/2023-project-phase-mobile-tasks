@@ -1,5 +1,5 @@
-import 'package:add_task/add_task/Model/task_model.dart';
-import 'package:add_task/add_task/widgets/single_todo.dart';
+import 'package:add_task/todo_list/Model/task_model.dart';
+import 'package:add_task/todo_list/widgets/single_todo.dart';
 import 'package:flutter/material.dart';
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key});
